@@ -1,4 +1,4 @@
-# kilobyte generator 
+# kilobit generator 
 
 import random
 
