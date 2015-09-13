@@ -2,7 +2,7 @@
 
 import random
 
-for a in range (2000000):
-    number = random.randint(0,1)
-    print(number, end=" ")
+for size in range (2000000):
+    bit = random.randint(0,1)
+    print(bit, end=" ")
     
